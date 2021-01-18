@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace intro
+﻿namespace intro
 {
     public class Class1
     {
